@@ -1,0 +1,5 @@
+python-dotenv
+panda
+numpy
+seaborn
+pymongo
