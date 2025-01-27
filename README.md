@@ -1,1 +1,1 @@
-### Network Security P roject for Phising Data
+### Network Security Project for Phising Data
