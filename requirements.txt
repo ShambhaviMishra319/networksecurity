@@ -7,4 +7,5 @@ pymongo[srv]
 certifi
 scikit-learn
 dill
+mlflow
 pyml
